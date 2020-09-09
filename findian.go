@@ -7,6 +7,7 @@ import (
 
 func main(){
 
+	
 	var x string
 	fmt.Scan(&x)
 	x=strings.ToLower(x)
