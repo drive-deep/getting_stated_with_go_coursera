@@ -35,6 +35,7 @@ func main() {
 	}
 
 	file.Close()
+	
 
 	for _, eachline := range txtlines {
 		s := eachline.splt(" ")
