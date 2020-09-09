@@ -10,6 +10,7 @@ func main() {
 
 	mySlice1 := make([]int, 3)
 
+	
 	fmt.Println("enter an integer")
 	var x string
 	fmt.Scan(&x)
